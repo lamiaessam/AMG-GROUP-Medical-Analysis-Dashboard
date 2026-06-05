@@ -27,6 +27,10 @@ Administrator: HI LAMIA ❤️💙!
 🚀 Cross-Page Filter Syncing: Integrated hidden Sync Slicers with conditional navigation. Once the user clicks "Sign In", filters ripple across all dashboard pages instantly.
 
 Healthcare data isn’t just numbers—it’s lives and timely decisions.
-https://github.com/user-attachments/assets/9067d5b7-9be7-461b-9e2e-3166669e5764
+
+
+https://github.com/user-attachments/assets/87a17dc2-604c-482f-9873-f056e8eed623
+
+
 
 
